@@ -19,6 +19,12 @@
     padding: 1rem 4rem;
 }
 
+.menu-bar .logo {
+    font-weight: 500;
+    font-size: 2rem;
+    color: #FE6905;
+}
+
 .menu-links ul li {
     display: inline-block;
     margin: 0rem 2rem;
