@@ -99,3 +99,29 @@
 .banner .tutor-search .contact small span {
     color: #FE6905;
 }
+
+section.why-us {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 4rem;
+}
+
+section.why-us .thinker {
+    max-width: 50%;
+}
+
+section.why-us .thinker img {
+    width: 90%;
+}
+
+section.why-us .why-choose-use-text {
+    max-width: 48%;
+    line-height: 4rem;
+}
+
+section.why-us .why-choose-use-text h2 {
+    color: #0A0857;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
