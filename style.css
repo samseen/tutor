@@ -25,6 +25,15 @@
     color: #FE6905;
 }
 
+.menu-bar .join-link a {
+    text-decoration: none;
+    background: #FE6905;
+    padding: 1rem 2rem;
+    border-radius: .6rem;
+    color: #fff;
+    cursor: pointer;
+}
+
 .menu-links ul li {
     display: inline-block;
     margin: 0rem 2rem;
@@ -84,4 +93,9 @@
     padding-top: 2rem;
     position: absolute;
     font-weight: 300;
+    color: #9C96B3;
+}
+
+.banner .tutor-search .contact small span {
+    color: #FE6905;
 }
