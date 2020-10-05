@@ -125,3 +125,13 @@ section.why-us .why-choose-use-text h2 {
     font-weight: 600;
     font-size: 2.5rem;
 }
+
+section .tutoring-details {
+    padding: 2rem 4rem;
+}
+
+section .want-something h2 {
+    color: #0A0857;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
