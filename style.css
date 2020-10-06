@@ -142,3 +142,9 @@ section .tutoring-details span {
     line-height: 2.5rem;
     color: #9C96B3;
 }
+
+section .features {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
