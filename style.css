@@ -171,3 +171,12 @@ section .features .card {
 .access {
     background: #E9F9FD;
 }
+
+.icon {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+i.fas {
+    color: #0A0857;
+}
