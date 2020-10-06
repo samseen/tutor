@@ -130,8 +130,15 @@ section .tutoring-details {
     padding: 2rem 4rem;
 }
 
-section .want-something h2 {
+section .tutoring-details h2 {
     color: #0A0857;
     font-weight: 600;
     font-size: 2.5rem;
+}
+
+section .tutoring-details span {
+    display: flex;
+    width: 50%;
+    line-height: 2.5rem;
+    color: #9C96B3;
 }
