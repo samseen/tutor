@@ -152,8 +152,17 @@ section .features {
 
 section .features .card {
     width: 250px;
-    border-radius: 1rem;
     height: 300px;
+    border-radius: 1rem;
+    padding: 2rem 2rem;
+}
+
+/* section .features .card .icon {
+    margin-bottom: 120px;
+} */
+
+section .features .card .feature-box {
+    margin-top: 120px;
 }
 
 .courses {
@@ -172,11 +181,16 @@ section .features .card {
     background: #E9F9FD;
 }
 
-.icon {
-    margin-left: 2rem;
-    margin-top: 2rem;
-}
-
 i.fas {
     color: #0A0857;
+}
+
+section .features .card span {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+section .features .card .feature-title {
+    font-size: 1.8rem;
+    font-weight: 600;
 }
