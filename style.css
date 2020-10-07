@@ -148,6 +148,7 @@ section .features {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 8rem;
 }
 
 section .features .card {
@@ -194,4 +195,32 @@ section .features .card .feature-title {
     font-size: 1.8rem;
     font-weight: 600;
     color: #0A0857;
+}
+
+section.become-a-tutor .tutor-join {
+    height: 500px;
+    background: #FFF7F2;
+    padding-top: 4rem;
+}
+
+section .tutor-join h2 {
+    color: #0A0857;
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+section .tutor-join .tutor-steps {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 4rem;
+}
+
+section .tutor-join .tutor-steps .tutor-reg-card {
+    width: 200px;
+    height: 250px;
+    background: #fff;
+    border-radius: 1.5rem;
 }
