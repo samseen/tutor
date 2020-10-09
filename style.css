@@ -239,4 +239,7 @@ section .tutor-join .tutor-steps .tutor-reg-card .tutor-step-title {
     align-self: center;
     text-align: center;
     margin-top: 2rem;
+    color: #0A0857;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
