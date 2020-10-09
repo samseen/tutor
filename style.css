@@ -238,4 +238,5 @@ section .tutor-join .tutor-steps .tutor-reg-card .tutor-step-title {
     width: 150px;
     align-self: center;
     text-align: center;
+    margin-top: 2rem;
 }
