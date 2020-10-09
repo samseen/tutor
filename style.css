@@ -223,4 +223,19 @@ section .tutor-join .tutor-steps .tutor-reg-card {
     height: 250px;
     background: #fff;
     border-radius: 1.5rem;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 2rem;
+    flex-direction: column;
+}
+
+section .tutor-join .tutor-steps .tutor-reg-card .card-image {
+    align-self: center;
+}
+
+section .tutor-join .tutor-steps .tutor-reg-card .tutor-step-title {
+    width: 150px;
+    align-self: center;
+    text-align: center;
 }
